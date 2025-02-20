@@ -14,4 +14,4 @@ Once the user's device has locked on to the target's, the player will enter into
 ## GAME DEMO
 <a href="https://v3.globalgamejam.org/2018/games/bluesnarfing"> Global Game Jam Site </a>
 <br>
-<a href=""> Web Demo not available yet </a>
+<a href="/"> Web Demo not available yet </a>
