@@ -14,4 +14,4 @@ While looking for resources, the player can build up and upgrade themselves with
 ## GAME DEMO
 <a href="https://v3.globalgamejam.org/2020/games/i-cant-really-remember-what-name-4"> Global Game Jam Site </a>
 <br>
-<a href=""> Web Demo not available yet </a>
+<a href="/"> Web Demo not available yet </a>

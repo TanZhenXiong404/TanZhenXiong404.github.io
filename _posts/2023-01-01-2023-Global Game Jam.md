@@ -12,4 +12,4 @@ There is too much plants around. Kill em What is bullet hell without explosion? 
 ## GAME DEMO
 <a href="https://v3.globalgamejam.org/2023/games/69-days-pecking-6"> Global Game Jam Site </a>
 <br>
-<a href=""> Web Demo not available yet </a>
+<a href="/"> Web Demo not available yet </a>

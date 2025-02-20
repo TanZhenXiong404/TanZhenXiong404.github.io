@@ -12,4 +12,4 @@ Ur a prez City is damage repair city an unknown virus comes and u have to do wha
 ## GAME DEMO
 <a href="https://v3.globalgamejam.org/2019/games/when-horses-fly"> Global Game Jam Site </a>
 <br>
-<a href=""> Web Demo not available yet </a>
+<a href="/"> Web Demo not available yet </a>
