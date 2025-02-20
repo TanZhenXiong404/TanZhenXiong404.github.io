@@ -1,6 +1,6 @@
 ---
 title: 2024 DSTA Brainhack
-#tags: [machine learning]
+tags: [machine learning]
 categories: [Portfolio, AI]
 ---
 
