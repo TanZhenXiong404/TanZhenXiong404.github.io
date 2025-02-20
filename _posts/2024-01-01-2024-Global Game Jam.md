@@ -10,4 +10,4 @@ categories: [Personal, Games]
 ## GAME DEMO
 <a href="https://globalgamejam.org/games/2024/wunkus-gyatt-fanum-taxed-and-skibidi-ohiohell-adventure-2"> Global Game Jam Site </a>
 <br>
-<a href=""> Web Demo not available yet </a>
+<a href="https://tanzhenxiong404.itch.io/wunkus"> Click here to try Wunkus on the browser </a>
