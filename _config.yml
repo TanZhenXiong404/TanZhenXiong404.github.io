@@ -1,6 +1,6 @@
 # The Site Configuration
 
-include: [_posts, _assets]
+include: [_posts, assets]
 
 # Import the theme
 theme: jekyll-theme-chirpy
