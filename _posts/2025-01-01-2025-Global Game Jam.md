@@ -1,6 +1,6 @@
 ---
 title: 2025 Global Game Jam
-tags: [game development, fun]
+#tags: [game development, fun]
 categories: [Personal, Games]
 ---
 
