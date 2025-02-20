@@ -1,5 +1,5 @@
 ---
-title: 2025 Global Game Jam
+title: 2025 Global Game Jam (Wunkus 2)
 tags: [game development, fun]
 categories: [Personal, Games]
 ---

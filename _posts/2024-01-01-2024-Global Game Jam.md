@@ -1,5 +1,5 @@
 ---
-title: 2024 Global Game Jam
+title: 2024 Global Game Jam (Wunkus)
 tags: [game development, fun]
 categories: [Personal, Games]
 ---
