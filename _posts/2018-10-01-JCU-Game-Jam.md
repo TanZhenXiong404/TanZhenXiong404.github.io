@@ -1,6 +1,6 @@
 ---
 title: 2018 JCU Game Jam
-#tags: [game development]
+tags: [game development]
 categories: [Portfolio, Games]
 ---
 
