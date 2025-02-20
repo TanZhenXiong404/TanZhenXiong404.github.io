@@ -1,6 +1,6 @@
 ---
 title: 2024 Global Game Jam
-tags: [Game Development, Fun]
+tags: [game development, fun]
 categories: [Personal, Games]
 ---
 
