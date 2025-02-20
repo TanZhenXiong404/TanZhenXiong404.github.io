@@ -14,4 +14,4 @@ While looking for resources, the player can build up and upgrade themselves with
 ## GAME DEMO
 <a href="https://v3.globalgamejam.org/2020/games/i-cant-really-remember-what-name-4"> Global Game Jam Site </a>
 <br>
-<a href="https://tanzhenxiong404.itch.io/through-the-ages-2019"> Click here to try When Horses Fly on the browser </a>
+<a href=""> Web Demo not available yet </a>
